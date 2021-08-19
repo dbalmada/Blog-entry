@@ -13,3 +13,17 @@ h1 {
   padding: 25px 0;
 }
 
+.h2{
+  background-color: #281B2D;
+  color: #FCD801;
+  font-size: 48px;
+  padding: 20px;
+
+  /* Slow version
+  border-bottom-style: solid;
+  border-bottom-width: 5px 0px;
+  border-bottom-color: #00C54C; */
+
+  /* fast version */
+  border-bottom: 5px solid #00C54C;
+}
