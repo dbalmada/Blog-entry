@@ -27,3 +27,7 @@ h1 {
   /* fast version */
   border-bottom: 5px solid #00C54C;
 }
+
+.white{
+  color: #fff;
+}
