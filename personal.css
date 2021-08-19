@@ -3,6 +3,9 @@ body {
 }
 
 /* solution with h1 only */
+.main-content{
+  margin-right: 15px;
+}
 
 h1 {
   background-color: #281B2D;
@@ -11,6 +14,7 @@ h1 {
   font-size: 72px;
   margin-top: 0;
   padding: 25px 0;
+  
 }
 
 #chameleon{
@@ -23,6 +27,7 @@ h1 {
   color: #FCD801;
   font-size: 48px;
   padding: 20px;
+  margin: 0px 0px 15px 0px;
 
   /* Slow version
   border-bottom-style: solid;
@@ -51,6 +56,11 @@ h1 {
   margin-left: 5px;
   margin-top: 0px;
   column-width: 700px;
+  background-color: #9AE84F;
+}
+
+a:hover{
+  color: #fff;
 }
 
 .image-text{
@@ -60,4 +70,14 @@ h1 {
 .the-text{
   margin: 10px 10px;
   padding: 0px 10px;
+}
+
+.source{
+  font-size: 12px;
+  text-align: right;
+  margin: 15px;
+}
+
+.source p{
+  padding-right: 10px;
 }
