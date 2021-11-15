@@ -1,2 +1,1 @@
-# website1
- 
+A blog entry about reptiles. 
